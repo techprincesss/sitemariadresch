@@ -1,0 +1,89 @@
+/* Cor de fundo suave em tons de pink */
+body {
+    background-color: #ffe0f0;
+    font-family: Arial, sans-serif;
+    color: #333;
+    text-align: center;
+  }
+  
+  /* Estilizando o título */
+  h1 {
+    color: #ff007f;
+    text-align: center;
+    font-size: 3em;
+    margin-top: 50px;
+  }
+  
+  /* Parágrafo com fonte maior e justificado */
+  p {
+    font-size: 1.2em;
+    text-align: justify;
+    margin: 0 20px;
+  }
+  
+  /* Lista não ordenada com espaçamento entre os itens */
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 20px auto;
+    max-width: 300px;
+  }
+  
+  ul li {
+    font-size: 1.3em;
+    margin-bottom: 10px;
+    color: #ff1493;
+  }
+  
+  /* Imagem com bordas arredondadas */
+  img {
+    border-radius: 15px;
+    width: 300px;
+    margin-top: 20px;
+  }
+  
+  /* Tabela estilizada */
+  table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: #fff0f6;
+  }
+  
+  table td {
+    padding: 10px;
+    border: 2px solid #ff007f;
+  }
+  
+  table img {
+    border-radius: 10px;
+  }
+  
+  /* Link que muda de cor ao passar o mouse */
+  a {
+    color: #ff1493;
+    font-size: 1.2em;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  a:hover {
+    color: #ff007f;
+  }
+  
+  /* Estilização do botão */
+  button {
+    background-color: #a42368;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1.2em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  button:hover {
+    background-color: #ff007f;
+  }
+  
